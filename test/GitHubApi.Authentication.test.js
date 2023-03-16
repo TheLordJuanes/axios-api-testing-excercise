@@ -4,7 +4,7 @@ const axios = require('axios');
 
 const urlBase = 'https://api.github.com';
 const githubUserName = 'TheLordJuanes';
-const repository = 'axios-api-testing-excercise';
+const repository = 'axios-api-testing-exercise';
 
 describe('Github Api Test', () => {
     describe('Authentication', () => {
